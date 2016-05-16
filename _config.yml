@@ -123,7 +123,7 @@ prose:
         field:
           element: "hidden"
           value: "post"
-      - name: "title"
+      - name: "Spencer Bell's Website"
         field:
           element: "text"
           label: "Post title"
