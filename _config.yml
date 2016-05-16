@@ -41,13 +41,14 @@ avatar: "https://github.com/spencerbell/spencerbell.github.io/blob/master/Spence
 author:
   name: Spencer Bell
   email: "sbell423@gmail.com"
-
+  twitter: "https://twitter.com/S13ell"
+  linkedin: "https://www.linkedin.com/in/wspencerbell"
  
 # Select which links to show in the footer
 footer-links-active:
   email: true
-
-
+  twitter: true
+  linkedin: true
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 
