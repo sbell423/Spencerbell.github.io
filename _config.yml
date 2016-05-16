@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://github.com/spencerbell/spencerbell.github.io/blob/master/img/beeker.jpg"
+avatar: "https://github.com/spencerbell/spencerbell.github.io/blob/master/img/beeker.jpg?raw=true"
 
 # --- Footer options --- #
 
