@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Spencer Bell's Website
+title: Spencer Bell
 
 # Short description of your site
 description: Hi everyone.
@@ -26,7 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Google: "http:/google.com"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Reddit: "http:/reddit.com"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
 
